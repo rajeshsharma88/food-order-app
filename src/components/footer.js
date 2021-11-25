@@ -14,6 +14,7 @@ function Footer() {
         <FacebookIcon />
         <YouTubeIcon />
       </div>
+      <p>&copy; 2021 Pixelris.com</p>
     </div>
   );
 }
